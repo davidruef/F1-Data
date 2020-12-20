@@ -1,0 +1,1036 @@
+raceId;year;round;circuitId;name;date;time
+1;2009;1;1;Australian Grand Prix;29.03.09;06:00:00
+2;2009;2;2;Malaysian Grand Prix;05.04.09;09:00:00
+3;2009;3;17;Chinese Grand Prix;19.04.09;07:00:00
+4;2009;4;3;Bahrain Grand Prix;26.04.09;12:00:00
+5;2009;5;4;Spanish Grand Prix;10.05.09;12:00:00
+6;2009;6;6;Monaco Grand Prix;24.05.09;12:00:00
+7;2009;7;5;Turkish Grand Prix;07.06.09;12:00:00
+8;2009;8;9;British Grand Prix;21.06.09;12:00:00
+9;2009;9;20;German Grand Prix;12.07.09;12:00:00
+10;2009;10;11;Hungarian Grand Prix;26.07.09;12:00:00
+11;2009;11;12;European Grand Prix;23.08.09;12:00:00
+12;2009;12;13;Belgian Grand Prix;30.08.09;12:00:00
+13;2009;13;14;Italian Grand Prix;13.09.09;12:00:00
+14;2009;14;15;Singapore Grand Prix;27.09.09;12:00:00
+15;2009;15;22;Japanese Grand Prix;04.10.09;05:00:00
+16;2009;16;18;Brazilian Grand Prix;18.10.09;16:00:00
+17;2009;17;24;Abu Dhabi Grand Prix;01.11.09;11:00:00
+18;2008;1;1;Australian Grand Prix;16.03.08;04:30:00
+19;2008;2;2;Malaysian Grand Prix;23.03.08;07:00:00
+20;2008;3;3;Bahrain Grand Prix;06.04.08;11:30:00
+21;2008;4;4;Spanish Grand Prix;27.04.08;12:00:00
+22;2008;5;5;Turkish Grand Prix;11.05.08;12:00:00
+23;2008;6;6;Monaco Grand Prix;25.05.08;12:00:00
+24;2008;7;7;Canadian Grand Prix;08.06.08;17:00:00
+25;2008;8;8;French Grand Prix;22.06.08;12:00:00
+26;2008;9;9;British Grand Prix;06.07.08;12:00:00
+27;2008;10;10;German Grand Prix;20.07.08;12:00:00
+28;2008;11;11;Hungarian Grand Prix;03.08.08;12:00:00
+29;2008;12;12;European Grand Prix;24.08.08;12:00:00
+30;2008;13;13;Belgian Grand Prix;07.09.08;12:00:00
+31;2008;14;14;Italian Grand Prix;14.09.08;12:00:00
+32;2008;15;15;Singapore Grand Prix;28.09.08;12:00:00
+33;2008;16;16;Japanese Grand Prix;12.10.08;04:30:00
+34;2008;17;17;Chinese Grand Prix;19.10.08;07:00:00
+35;2008;18;18;Brazilian Grand Prix;02.11.08;17:00:00
+36;2007;1;1;Australian Grand Prix;18.03.07;03:00:00
+37;2007;2;2;Malaysian Grand Prix;08.04.07;07:00:00
+38;2007;3;3;Bahrain Grand Prix;15.04.07;11:30:00
+39;2007;4;4;Spanish Grand Prix;13.05.07;12:00:00
+40;2007;5;6;Monaco Grand Prix;27.05.07;12:00:00
+41;2007;6;7;Canadian Grand Prix;10.06.07;17:00:00
+42;2007;7;19;United States Grand Prix;17.06.07;17:00:00
+43;2007;8;8;French Grand Prix;01.07.07;12:00:00
+44;2007;9;9;British Grand Prix;08.07.07;12:00:00
+45;2007;10;20;European Grand Prix;22.07.07;12:00:00
+46;2007;11;11;Hungarian Grand Prix;05.08.07;12:00:00
+47;2007;12;5;Turkish Grand Prix;26.08.07;12:00:00
+48;2007;13;14;Italian Grand Prix;09.09.07;12:00:00
+49;2007;14;13;Belgian Grand Prix;16.09.07;12:00:00
+50;2007;15;16;Japanese Grand Prix;30.09.07;04:30:00
+51;2007;16;17;Chinese Grand Prix;07.10.07;06:00:00
+52;2007;17;18;Brazilian Grand Prix;21.10.07;16:00:00
+53;2006;1;3;Bahrain Grand Prix;12.03.06;14:30:00
+54;2006;2;2;Malaysian Grand Prix;19.03.06;15:00:00
+55;2006;3;1;Australian Grand Prix;02.04.06;14:00:00
+56;2006;4;21;San Marino Grand Prix;23.04.06;14:00:00
+57;2006;5;20;European Grand Prix;07.05.06;14:00:00
+58;2006;6;4;Spanish Grand Prix;14.05.06;14:00:00
+59;2006;7;6;Monaco Grand Prix;28.05.06;14:00:00
+60;2006;8;9;British Grand Prix;11.06.06;12:00:00
+61;2006;9;7;Canadian Grand Prix;25.06.06;13:00:00
+62;2006;10;19;United States Grand Prix;02.07.06;14:00:00
+63;2006;11;8;French Grand Prix;16.07.06;14:00:00
+64;2006;12;10;German Grand Prix;30.07.06;14:00:00
+65;2006;13;11;Hungarian Grand Prix;06.08.06;14:00:00
+66;2006;14;5;Turkish Grand Prix;27.08.06;15:00:00
+67;2006;15;14;Italian Grand Prix;10.09.06;14:00:00
+68;2006;16;17;Chinese Grand Prix;01.10.06;14:00:00
+69;2006;17;22;Japanese Grand Prix;08.10.06;14:00:00
+70;2006;18;18;Brazilian Grand Prix;22.10.06;14:00:00
+71;2005;1;1;Australian Grand Prix;06.03.05;14:00:00
+72;2005;2;2;Malaysian Grand Prix;20.03.05;15:00:00
+73;2005;3;3;Bahrain Grand Prix;03.04.05;14:30:00
+74;2005;4;21;San Marino Grand Prix;24.04.05;14:00:00
+75;2005;5;4;Spanish Grand Prix;08.05.05;14:00:00
+76;2005;6;6;Monaco Grand Prix;22.05.05;14:00:00
+77;2005;7;20;European Grand Prix;29.05.05;14:00:00
+78;2005;8;7;Canadian Grand Prix;12.06.05;13:00:00
+79;2005;9;19;United States Grand Prix;19.06.05;14:00:00
+80;2005;10;8;French Grand Prix;03.07.05;14:00:00
+81;2005;11;9;British Grand Prix;10.07.05;14:00:00
+82;2005;12;10;German Grand Prix;24.07.05;14:00:00
+83;2005;13;11;Hungarian Grand Prix;31.07.05;14:00:00
+84;2005;14;5;Turkish Grand Prix;21.08.05;15:00:00
+85;2005;15;14;Italian Grand Prix;04.09.05;14:00:00
+86;2005;16;13;Belgian Grand Prix;11.09.05;14:00:00
+87;2005;17;18;Brazilian Grand Prix;25.09.05;14:00:00
+88;2005;18;22;Japanese Grand Prix;09.10.05;14:00:00
+89;2005;19;17;Chinese Grand Prix;16.10.05;14:00:00
+90;2004;1;1;Australian Grand Prix;07.03.04;X
+91;2004;2;2;Malaysian Grand Prix;21.03.04;X
+92;2004;3;3;Bahrain Grand Prix;04.04.04;X
+93;2004;4;21;San Marino Grand Prix;25.04.04;X
+94;2004;5;4;Spanish Grand Prix;09.05.04;X
+95;2004;6;6;Monaco Grand Prix;23.05.04;X
+96;2004;7;20;European Grand Prix;30.05.04;X
+97;2004;8;7;Canadian Grand Prix;13.06.04;X
+98;2004;9;19;United States Grand Prix;20.06.04;X
+99;2004;10;8;French Grand Prix;04.07.04;X
+100;2004;11;9;British Grand Prix;11.07.04;X
+101;2004;12;10;German Grand Prix;25.07.04;X
+102;2004;13;11;Hungarian Grand Prix;15.08.04;X
+103;2004;14;13;Belgian Grand Prix;29.08.04;X
+104;2004;15;14;Italian Grand Prix;12.09.04;X
+105;2004;16;17;Chinese Grand Prix;26.09.04;X
+106;2004;17;22;Japanese Grand Prix;10.10.04;X
+107;2004;18;18;Brazilian Grand Prix;24.10.04;X
+108;2003;1;1;Australian Grand Prix;09.03.03;X
+109;2003;2;2;Malaysian Grand Prix;23.03.03;X
+110;2003;3;18;Brazilian Grand Prix;06.04.03;X
+111;2003;4;21;San Marino Grand Prix;20.04.03;X
+112;2003;5;4;Spanish Grand Prix;04.05.03;X
+113;2003;6;23;Austrian Grand Prix;18.05.03;X
+114;2003;7;6;Monaco Grand Prix;01.06.03;X
+115;2003;8;7;Canadian Grand Prix;15.06.03;X
+116;2003;9;20;European Grand Prix;29.06.03;X
+117;2003;10;8;French Grand Prix;06.07.03;X
+118;2003;11;9;British Grand Prix;20.07.03;X
+119;2003;12;10;German Grand Prix;03.08.03;X
+120;2003;13;11;Hungarian Grand Prix;24.08.03;X
+121;2003;14;14;Italian Grand Prix;14.09.03;X
+122;2003;15;19;United States Grand Prix;28.09.03;X
+123;2003;16;22;Japanese Grand Prix;12.10.03;X
+124;2002;1;1;Australian Grand Prix;03.03.02;X
+125;2002;2;2;Malaysian Grand Prix;17.03.02;X
+126;2002;3;18;Brazilian Grand Prix;31.03.02;X
+127;2002;4;21;San Marino Grand Prix;14.04.02;X
+128;2002;5;4;Spanish Grand Prix;28.04.02;X
+129;2002;6;23;Austrian Grand Prix;12.05.02;X
+130;2002;7;6;Monaco Grand Prix;26.05.02;X
+131;2002;8;7;Canadian Grand Prix;09.06.02;X
+132;2002;9;20;European Grand Prix;23.06.02;X
+133;2002;10;9;British Grand Prix;07.07.02;X
+134;2002;11;8;French Grand Prix;21.07.02;X
+135;2002;12;10;German Grand Prix;28.07.02;X
+136;2002;13;11;Hungarian Grand Prix;18.08.02;X
+137;2002;14;13;Belgian Grand Prix;01.09.02;X
+138;2002;15;14;Italian Grand Prix;15.09.02;X
+139;2002;16;19;United States Grand Prix;29.09.02;X
+140;2002;17;22;Japanese Grand Prix;13.10.02;X
+141;2001;1;1;Australian Grand Prix;04.03.01;X
+142;2001;2;2;Malaysian Grand Prix;18.03.01;X
+143;2001;3;18;Brazilian Grand Prix;01.04.01;X
+144;2001;4;21;San Marino Grand Prix;15.04.01;X
+145;2001;5;4;Spanish Grand Prix;29.04.01;X
+146;2001;6;23;Austrian Grand Prix;13.05.01;X
+147;2001;7;6;Monaco Grand Prix;27.05.01;X
+148;2001;8;7;Canadian Grand Prix;10.06.01;X
+149;2001;9;20;European Grand Prix;24.06.01;X
+150;2001;10;8;French Grand Prix;01.07.01;X
+151;2001;11;9;British Grand Prix;15.07.01;X
+152;2001;12;10;German Grand Prix;29.07.01;X
+153;2001;13;11;Hungarian Grand Prix;19.08.01;X
+154;2001;14;13;Belgian Grand Prix;02.09.01;X
+155;2001;15;14;Italian Grand Prix;16.09.01;X
+156;2001;16;19;United States Grand Prix;30.09.01;X
+157;2001;17;22;Japanese Grand Prix;14.10.01;X
+158;2000;1;1;Australian Grand Prix;12.03.00;X
+159;2000;2;18;Brazilian Grand Prix;26.03.00;X
+160;2000;3;21;San Marino Grand Prix;09.04.00;X
+161;2000;4;9;British Grand Prix;23.04.00;X
+162;2000;5;4;Spanish Grand Prix;07.05.00;X
+163;2000;6;20;European Grand Prix;21.05.00;X
+164;2000;7;6;Monaco Grand Prix;04.06.00;X
+165;2000;8;7;Canadian Grand Prix;18.06.00;X
+166;2000;9;8;French Grand Prix;02.07.00;X
+167;2000;10;23;Austrian Grand Prix;16.07.00;X
+168;2000;11;10;German Grand Prix;30.07.00;X
+169;2000;12;11;Hungarian Grand Prix;13.08.00;X
+170;2000;13;13;Belgian Grand Prix;27.08.00;X
+171;2000;14;14;Italian Grand Prix;10.09.00;X
+172;2000;15;19;United States Grand Prix;24.09.00;X
+173;2000;16;22;Japanese Grand Prix;08.10.00;X
+174;2000;17;2;Malaysian Grand Prix;22.10.00;X
+175;1999;1;1;Australian Grand Prix;07.03.99;X
+176;1999;2;18;Brazilian Grand Prix;11.04.99;X
+177;1999;3;21;San Marino Grand Prix;02.05.99;X
+178;1999;4;6;Monaco Grand Prix;16.05.99;X
+179;1999;5;4;Spanish Grand Prix;30.05.99;X
+180;1999;6;7;Canadian Grand Prix;13.06.99;X
+181;1999;7;8;French Grand Prix;27.06.99;X
+182;1999;8;9;British Grand Prix;11.07.99;X
+183;1999;9;23;Austrian Grand Prix;25.07.99;X
+184;1999;10;10;German Grand Prix;01.08.99;X
+185;1999;11;11;Hungarian Grand Prix;15.08.99;X
+186;1999;12;13;Belgian Grand Prix;29.08.99;X
+187;1999;13;14;Italian Grand Prix;12.09.99;X
+188;1999;14;20;European Grand Prix;26.09.99;X
+189;1999;15;2;Malaysian Grand Prix;17.10.99;X
+190;1999;16;22;Japanese Grand Prix;31.10.99;X
+191;1998;1;1;Australian Grand Prix;08.03.98;X
+192;1998;2;18;Brazilian Grand Prix;29.03.98;X
+193;1998;3;25;Argentine Grand Prix;12.04.98;X
+194;1998;4;21;San Marino Grand Prix;26.04.98;X
+195;1998;5;4;Spanish Grand Prix;10.05.98;X
+196;1998;6;6;Monaco Grand Prix;24.05.98;X
+197;1998;7;7;Canadian Grand Prix;07.06.98;X
+198;1998;8;8;French Grand Prix;28.06.98;X
+199;1998;9;9;British Grand Prix;12.07.98;X
+200;1998;10;23;Austrian Grand Prix;26.07.98;X
+201;1998;11;10;German Grand Prix;02.08.98;X
+202;1998;12;11;Hungarian Grand Prix;16.08.98;X
+203;1998;13;13;Belgian Grand Prix;30.08.98;X
+204;1998;14;14;Italian Grand Prix;13.09.98;X
+205;1998;15;20;Luxembourg Grand Prix;27.09.98;X
+206;1998;16;22;Japanese Grand Prix;01.11.98;X
+207;1997;1;1;Australian Grand Prix;09.03.97;X
+208;1997;2;18;Brazilian Grand Prix;30.03.97;X
+209;1997;3;25;Argentine Grand Prix;13.04.97;X
+210;1997;4;21;San Marino Grand Prix;27.04.97;X
+211;1997;5;6;Monaco Grand Prix;11.05.97;X
+212;1997;6;4;Spanish Grand Prix;25.05.97;X
+213;1997;7;7;Canadian Grand Prix;15.06.97;X
+214;1997;8;8;French Grand Prix;29.06.97;X
+215;1997;9;9;British Grand Prix;13.07.97;X
+216;1997;10;10;German Grand Prix;27.07.97;X
+217;1997;11;11;Hungarian Grand Prix;10.08.97;X
+218;1997;12;13;Belgian Grand Prix;24.08.97;X
+219;1997;13;14;Italian Grand Prix;07.09.97;X
+220;1997;14;23;Austrian Grand Prix;21.09.97;X
+221;1997;15;20;Luxembourg Grand Prix;28.09.97;X
+222;1997;16;22;Japanese Grand Prix;12.10.97;X
+223;1997;17;26;European Grand Prix;26.10.97;X
+224;1996;1;1;Australian Grand Prix;10.03.96;X
+225;1996;2;18;Brazilian Grand Prix;31.03.96;X
+226;1996;3;25;Argentine Grand Prix;07.04.96;X
+227;1996;4;20;European Grand Prix;28.04.96;X
+228;1996;5;21;San Marino Grand Prix;05.05.96;X
+229;1996;6;6;Monaco Grand Prix;19.05.96;X
+230;1996;7;4;Spanish Grand Prix;02.06.96;X
+231;1996;8;7;Canadian Grand Prix;16.06.96;X
+232;1996;9;8;French Grand Prix;30.06.96;X
+233;1996;10;9;British Grand Prix;14.07.96;X
+234;1996;11;10;German Grand Prix;28.07.96;X
+235;1996;12;11;Hungarian Grand Prix;11.08.96;X
+236;1996;13;13;Belgian Grand Prix;25.08.96;X
+237;1996;14;14;Italian Grand Prix;08.09.96;X
+238;1996;15;27;Portuguese Grand Prix;22.09.96;X
+239;1996;16;22;Japanese Grand Prix;13.10.96;X
+240;1995;1;18;Brazilian Grand Prix;26.03.95;X
+241;1995;2;25;Argentine Grand Prix;09.04.95;X
+242;1995;3;21;San Marino Grand Prix;30.04.95;X
+243;1995;4;4;Spanish Grand Prix;14.05.95;X
+244;1995;5;6;Monaco Grand Prix;28.05.95;X
+245;1995;6;7;Canadian Grand Prix;11.06.95;X
+246;1995;7;8;French Grand Prix;02.07.95;X
+247;1995;8;9;British Grand Prix;16.07.95;X
+248;1995;9;10;German Grand Prix;30.07.95;X
+249;1995;10;11;Hungarian Grand Prix;13.08.95;X
+250;1995;11;13;Belgian Grand Prix;27.08.95;X
+251;1995;12;14;Italian Grand Prix;10.09.95;X
+252;1995;13;27;Portuguese Grand Prix;24.09.95;X
+253;1995;14;20;European Grand Prix;01.10.95;X
+254;1995;15;28;Pacific Grand Prix;22.10.95;X
+255;1995;16;22;Japanese Grand Prix;29.10.95;X
+256;1995;17;29;Australian Grand Prix;12.11.95;X
+257;1994;1;18;Brazilian Grand Prix;27.03.94;X
+258;1994;2;28;Pacific Grand Prix;17.04.94;X
+259;1994;3;21;San Marino Grand Prix;01.05.94;X
+260;1994;4;6;Monaco Grand Prix;15.05.94;X
+261;1994;5;4;Spanish Grand Prix;29.05.94;X
+262;1994;6;7;Canadian Grand Prix;12.06.94;X
+263;1994;7;8;French Grand Prix;03.07.94;X
+264;1994;8;9;British Grand Prix;10.07.94;X
+265;1994;9;10;German Grand Prix;31.07.94;X
+266;1994;10;11;Hungarian Grand Prix;14.08.94;X
+267;1994;11;13;Belgian Grand Prix;28.08.94;X
+268;1994;12;14;Italian Grand Prix;11.09.94;X
+269;1994;13;27;Portuguese Grand Prix;25.09.94;X
+270;1994;14;26;European Grand Prix;16.10.94;X
+271;1994;15;22;Japanese Grand Prix;06.11.94;X
+272;1994;16;29;Australian Grand Prix;13.11.94;X
+273;1993;1;30;South African Grand Prix;14.03.93;X
+274;1993;2;18;Brazilian Grand Prix;28.03.93;X
+275;1993;3;31;European Grand Prix;11.04.93;X
+276;1993;4;21;San Marino Grand Prix;25.04.93;X
+277;1993;5;4;Spanish Grand Prix;09.05.93;X
+278;1993;6;6;Monaco Grand Prix;23.05.93;X
+279;1993;7;7;Canadian Grand Prix;13.06.93;X
+280;1993;8;8;French Grand Prix;04.07.93;X
+281;1993;9;9;British Grand Prix;11.07.93;X
+282;1993;10;10;German Grand Prix;25.07.93;X
+283;1993;11;11;Hungarian Grand Prix;15.08.93;X
+284;1993;12;13;Belgian Grand Prix;29.08.93;X
+285;1993;13;14;Italian Grand Prix;12.09.93;X
+286;1993;14;27;Portuguese Grand Prix;26.09.93;X
+287;1993;15;22;Japanese Grand Prix;24.10.93;X
+288;1993;16;29;Australian Grand Prix;07.11.93;X
+289;1992;1;30;South African Grand Prix;01.03.92;X
+290;1992;2;32;Mexican Grand Prix;22.03.92;X
+291;1992;3;18;Brazilian Grand Prix;05.04.92;X
+292;1992;4;4;Spanish Grand Prix;03.05.92;X
+293;1992;5;21;San Marino Grand Prix;17.05.92;X
+294;1992;6;6;Monaco Grand Prix;31.05.92;X
+295;1992;7;7;Canadian Grand Prix;14.06.92;X
+296;1992;8;8;French Grand Prix;05.07.92;X
+297;1992;9;9;British Grand Prix;12.07.92;X
+298;1992;10;10;German Grand Prix;26.07.92;X
+299;1992;11;11;Hungarian Grand Prix;16.08.92;X
+300;1992;12;13;Belgian Grand Prix;30.08.92;X
+301;1992;13;14;Italian Grand Prix;13.09.92;X
+302;1992;14;27;Portuguese Grand Prix;27.09.92;X
+303;1992;15;22;Japanese Grand Prix;25.10.92;X
+304;1992;16;29;Australian Grand Prix;08.11.92;X
+305;1991;1;33;United States Grand Prix;10.03.91;X
+306;1991;2;18;Brazilian Grand Prix;24.03.91;X
+307;1991;3;21;San Marino Grand Prix;28.04.91;X
+308;1991;4;6;Monaco Grand Prix;12.05.91;X
+309;1991;5;7;Canadian Grand Prix;02.06.91;X
+310;1991;6;32;Mexican Grand Prix;16.06.91;X
+311;1991;7;8;French Grand Prix;07.07.91;X
+312;1991;8;9;British Grand Prix;14.07.91;X
+313;1991;9;10;German Grand Prix;28.07.91;X
+314;1991;10;11;Hungarian Grand Prix;11.08.91;X
+315;1991;11;13;Belgian Grand Prix;25.08.91;X
+316;1991;12;14;Italian Grand Prix;08.09.91;X
+317;1991;13;27;Portuguese Grand Prix;22.09.91;X
+318;1991;14;4;Spanish Grand Prix;29.09.91;X
+319;1991;15;22;Japanese Grand Prix;20.10.91;X
+320;1991;16;29;Australian Grand Prix;03.11.91;X
+321;1990;1;33;United States Grand Prix;11.03.90;X
+322;1990;2;18;Brazilian Grand Prix;25.03.90;X
+323;1990;3;21;San Marino Grand Prix;13.05.90;X
+324;1990;4;6;Monaco Grand Prix;27.05.90;X
+325;1990;5;7;Canadian Grand Prix;10.06.90;X
+326;1990;6;32;Mexican Grand Prix;24.06.90;X
+327;1990;7;34;French Grand Prix;08.07.90;X
+328;1990;8;9;British Grand Prix;15.07.90;X
+329;1990;9;10;German Grand Prix;29.07.90;X
+330;1990;10;11;Hungarian Grand Prix;12.08.90;X
+331;1990;11;13;Belgian Grand Prix;26.08.90;X
+332;1990;12;14;Italian Grand Prix;09.09.90;X
+333;1990;13;27;Portuguese Grand Prix;23.09.90;X
+334;1990;14;26;Spanish Grand Prix;30.09.90;X
+335;1990;15;22;Japanese Grand Prix;21.10.90;X
+336;1990;16;29;Australian Grand Prix;04.11.90;X
+337;2010;1;3;Bahrain Grand Prix;14.03.10;12:00:00
+338;2010;2;1;Australian Grand Prix;28.03.10;06:00:00
+339;2010;3;2;Malaysian Grand Prix;04.04.10;08:00:00
+340;2010;4;17;Chinese Grand Prix;18.04.10;06:00:00
+341;2010;5;4;Spanish Grand Prix;09.05.10;12:00:00
+342;2010;6;6;Monaco Grand Prix;16.05.10;12:00:00
+343;2010;7;5;Turkish Grand Prix;30.05.10;11:00:00
+344;2010;8;7;Canadian Grand Prix;13.06.10;16:00:00
+345;2010;9;12;European Grand Prix;27.06.10;12:00:00
+346;2010;10;9;British Grand Prix;11.07.10;12:00:00
+347;2010;11;10;German Grand Prix;25.07.10;12:00:00
+348;2010;12;11;Hungarian Grand Prix;01.08.10;12:00:00
+349;2010;13;13;Belgian Grand Prix;29.08.10;12:00:00
+350;2010;14;14;Italian Grand Prix;12.09.10;12:00:00
+351;2010;15;15;Singapore Grand Prix;26.09.10;12:00:00
+352;2010;16;22;Japanese Grand Prix;10.10.10;06:00:00
+353;2010;17;35;Korean Grand Prix;24.10.10;05:00:00
+354;2010;18;18;Brazilian Grand Prix;07.11.10;16:00:00
+355;2010;19;24;Abu Dhabi Grand Prix;14.11.10;13:00:00
+356;1989;1;36;Brazilian Grand Prix;26.03.89;X
+357;1989;2;21;San Marino Grand Prix;23.04.89;X
+358;1989;3;6;Monaco Grand Prix;07.05.89;X
+359;1989;4;32;Mexican Grand Prix;28.05.89;X
+360;1989;5;33;United States Grand Prix;04.06.89;X
+361;1989;6;7;Canadian Grand Prix;18.06.89;X
+362;1989;7;34;French Grand Prix;09.07.89;X
+363;1989;8;9;British Grand Prix;16.07.89;X
+364;1989;9;10;German Grand Prix;30.07.89;X
+365;1989;10;11;Hungarian Grand Prix;13.08.89;X
+366;1989;11;13;Belgian Grand Prix;27.08.89;X
+367;1989;12;14;Italian Grand Prix;10.09.89;X
+368;1989;13;27;Portuguese Grand Prix;24.09.89;X
+369;1989;14;26;Spanish Grand Prix;01.10.89;X
+370;1989;15;22;Japanese Grand Prix;22.10.89;X
+371;1989;16;29;Australian Grand Prix;05.11.89;X
+372;1988;1;36;Brazilian Grand Prix;03.04.88;X
+373;1988;2;21;San Marino Grand Prix;01.05.88;X
+374;1988;3;6;Monaco Grand Prix;15.05.88;X
+375;1988;4;32;Mexican Grand Prix;29.05.88;X
+376;1988;5;7;Canadian Grand Prix;12.06.88;X
+377;1988;6;37;Detroit Grand Prix;19.06.88;X
+378;1988;7;34;French Grand Prix;03.07.88;X
+379;1988;8;9;British Grand Prix;10.07.88;X
+380;1988;9;10;German Grand Prix;24.07.88;X
+381;1988;10;11;Hungarian Grand Prix;07.08.88;X
+382;1988;11;13;Belgian Grand Prix;28.08.88;X
+383;1988;12;14;Italian Grand Prix;11.09.88;X
+384;1988;13;27;Portuguese Grand Prix;25.09.88;X
+385;1988;14;26;Spanish Grand Prix;02.10.88;X
+386;1988;15;22;Japanese Grand Prix;30.10.88;X
+387;1988;16;29;Australian Grand Prix;13.11.88;X
+388;1987;1;36;Brazilian Grand Prix;12.04.87;X
+389;1987;2;21;San Marino Grand Prix;03.05.87;X
+390;1987;3;13;Belgian Grand Prix;17.05.87;X
+391;1987;4;6;Monaco Grand Prix;31.05.87;X
+392;1987;5;37;Detroit Grand Prix;21.06.87;X
+393;1987;6;34;French Grand Prix;05.07.87;X
+394;1987;7;9;British Grand Prix;12.07.87;X
+395;1987;8;10;German Grand Prix;26.07.87;X
+396;1987;9;11;Hungarian Grand Prix;09.08.87;X
+397;1987;10;23;Austrian Grand Prix;16.08.87;X
+398;1987;11;14;Italian Grand Prix;06.09.87;X
+399;1987;12;27;Portuguese Grand Prix;20.09.87;X
+400;1987;13;26;Spanish Grand Prix;27.09.87;X
+401;1987;14;32;Mexican Grand Prix;18.10.87;X
+402;1987;15;22;Japanese Grand Prix;01.11.87;X
+403;1987;16;29;Australian Grand Prix;15.11.87;X
+404;1986;1;36;Brazilian Grand Prix;23.03.86;X
+405;1986;2;26;Spanish Grand Prix;13.04.86;X
+406;1986;3;21;San Marino Grand Prix;27.04.86;X
+407;1986;4;6;Monaco Grand Prix;11.05.86;X
+408;1986;5;13;Belgian Grand Prix;25.05.86;X
+409;1986;6;7;Canadian Grand Prix;15.06.86;X
+410;1986;7;37;Detroit Grand Prix;22.06.86;X
+411;1986;8;34;French Grand Prix;06.07.86;X
+412;1986;9;38;British Grand Prix;13.07.86;X
+413;1986;10;10;German Grand Prix;27.07.86;X
+414;1986;11;11;Hungarian Grand Prix;10.08.86;X
+415;1986;12;23;Austrian Grand Prix;17.08.86;X
+416;1986;13;14;Italian Grand Prix;07.09.86;X
+417;1986;14;27;Portuguese Grand Prix;21.09.86;X
+418;1986;15;32;Mexican Grand Prix;12.10.86;X
+419;1986;16;29;Australian Grand Prix;26.10.86;X
+420;1985;1;36;Brazilian Grand Prix;07.04.85;X
+421;1985;2;27;Portuguese Grand Prix;21.04.85;X
+422;1985;3;21;San Marino Grand Prix;05.05.85;X
+423;1985;4;6;Monaco Grand Prix;19.05.85;X
+424;1985;5;7;Canadian Grand Prix;16.06.85;X
+425;1985;6;37;Detroit Grand Prix;23.06.85;X
+426;1985;7;34;French Grand Prix;07.07.85;X
+427;1985;8;9;British Grand Prix;21.07.85;X
+428;1985;9;20;German Grand Prix;04.08.85;X
+429;1985;10;23;Austrian Grand Prix;18.08.85;X
+430;1985;11;39;Dutch Grand Prix;25.08.85;X
+431;1985;12;14;Italian Grand Prix;08.09.85;X
+432;1985;13;13;Belgian Grand Prix;15.09.85;X
+433;1985;14;38;European Grand Prix;06.10.85;X
+434;1985;15;30;South African Grand Prix;19.10.85;X
+435;1985;16;29;Australian Grand Prix;03.11.85;X
+436;1984;1;36;Brazilian Grand Prix;25.03.84;X
+437;1984;2;30;South African Grand Prix;07.04.84;X
+438;1984;3;40;Belgian Grand Prix;29.04.84;X
+439;1984;4;21;San Marino Grand Prix;06.05.84;X
+440;1984;5;41;French Grand Prix;20.05.84;X
+441;1984;6;6;Monaco Grand Prix;03.06.84;X
+442;1984;7;7;Canadian Grand Prix;17.06.84;X
+443;1984;8;37;Detroit Grand Prix;24.06.84;X
+444;1984;9;42;Dallas Grand Prix;08.07.84;X
+445;1984;10;38;British Grand Prix;22.07.84;X
+446;1984;11;10;German Grand Prix;05.08.84;X
+447;1984;12;23;Austrian Grand Prix;19.08.84;X
+448;1984;13;39;Dutch Grand Prix;26.08.84;X
+449;1984;14;14;Italian Grand Prix;09.09.84;X
+450;1984;15;20;European Grand Prix;07.10.84;X
+451;1984;16;27;Portuguese Grand Prix;21.10.84;X
+452;1983;1;36;Brazilian Grand Prix;13.03.83;X
+453;1983;2;43;United States Grand Prix West;27.03.83;X
+454;1983;3;34;French Grand Prix;17.04.83;X
+455;1983;4;21;San Marino Grand Prix;01.05.83;X
+456;1983;5;6;Monaco Grand Prix;15.05.83;X
+457;1983;6;13;Belgian Grand Prix;22.05.83;X
+458;1983;7;37;Detroit Grand Prix;05.06.83;X
+459;1983;8;7;Canadian Grand Prix;12.06.83;X
+460;1983;9;9;British Grand Prix;16.07.83;X
+461;1983;10;10;German Grand Prix;07.08.83;X
+462;1983;11;23;Austrian Grand Prix;14.08.83;X
+463;1983;12;39;Dutch Grand Prix;28.08.83;X
+464;1983;13;14;Italian Grand Prix;11.09.83;X
+465;1983;14;38;European Grand Prix;25.09.83;X
+466;1983;15;30;South African Grand Prix;15.10.83;X
+467;1982;1;30;South African Grand Prix;23.01.82;X
+468;1982;2;36;Brazilian Grand Prix;21.03.82;X
+469;1982;3;43;United States Grand Prix West;04.04.82;X
+470;1982;4;21;San Marino Grand Prix;25.04.82;X
+471;1982;5;40;Belgian Grand Prix;09.05.82;X
+472;1982;6;6;Monaco Grand Prix;23.05.82;X
+473;1982;7;37;Detroit Grand Prix;06.06.82;X
+474;1982;8;7;Canadian Grand Prix;13.06.82;X
+475;1982;9;39;Dutch Grand Prix;03.07.82;X
+476;1982;10;38;British Grand Prix;18.07.82;X
+477;1982;11;34;French Grand Prix;25.07.82;X
+478;1982;12;10;German Grand Prix;08.08.82;X
+479;1982;13;23;Austrian Grand Prix;15.08.82;X
+480;1982;14;41;Swiss Grand Prix;29.08.82;X
+481;1982;15;14;Italian Grand Prix;12.09.82;X
+482;1982;16;44;Caesars Palace Grand Prix;25.09.82;X
+483;1981;1;43;United States Grand Prix West;15.03.81;X
+484;1981;2;36;Brazilian Grand Prix;29.03.81;X
+485;1981;3;25;Argentine Grand Prix;12.04.81;X
+486;1981;4;21;San Marino Grand Prix;03.05.81;X
+487;1981;5;40;Belgian Grand Prix;17.05.81;X
+488;1981;6;6;Monaco Grand Prix;31.05.81;X
+489;1981;7;45;Spanish Grand Prix;21.06.81;X
+490;1981;8;41;French Grand Prix;05.07.81;X
+491;1981;9;9;British Grand Prix;18.07.81;X
+492;1981;10;10;German Grand Prix;02.08.81;X
+493;1981;11;23;Austrian Grand Prix;16.08.81;X
+494;1981;12;39;Dutch Grand Prix;30.08.81;X
+495;1981;13;14;Italian Grand Prix;13.09.81;X
+496;1981;14;7;Canadian Grand Prix;27.09.81;X
+497;1981;15;44;Caesars Palace Grand Prix;17.10.81;X
+498;1980;1;25;Argentine Grand Prix;13.01.80;X
+499;1980;2;18;Brazilian Grand Prix;27.01.80;X
+500;1980;3;30;South African Grand Prix;01.03.80;X
+501;1980;4;43;United States Grand Prix West;30.03.80;X
+502;1980;5;40;Belgian Grand Prix;04.05.80;X
+503;1980;6;6;Monaco Grand Prix;18.05.80;X
+504;1980;7;34;French Grand Prix;29.06.80;X
+505;1980;8;38;British Grand Prix;13.07.80;X
+506;1980;9;10;German Grand Prix;10.08.80;X
+507;1980;10;23;Austrian Grand Prix;17.08.80;X
+508;1980;11;39;Dutch Grand Prix;31.08.80;X
+509;1980;12;21;Italian Grand Prix;14.09.80;X
+510;1980;13;7;Canadian Grand Prix;28.09.80;X
+511;1980;14;46;United States Grand Prix;05.10.80;X
+512;1979;1;25;Argentine Grand Prix;21.01.79;X
+513;1979;2;18;Brazilian Grand Prix;04.02.79;X
+514;1979;3;30;South African Grand Prix;03.03.79;X
+515;1979;4;43;United States Grand Prix West;08.04.79;X
+516;1979;5;45;Spanish Grand Prix;29.04.79;X
+517;1979;6;40;Belgian Grand Prix;13.05.79;X
+518;1979;7;6;Monaco Grand Prix;27.05.79;X
+519;1979;8;41;French Grand Prix;01.07.79;X
+520;1979;9;9;British Grand Prix;14.07.79;X
+521;1979;10;10;German Grand Prix;29.07.79;X
+522;1979;11;23;Austrian Grand Prix;12.08.79;X
+523;1979;12;39;Dutch Grand Prix;26.08.79;X
+524;1979;13;14;Italian Grand Prix;09.09.79;X
+525;1979;14;7;Canadian Grand Prix;30.09.79;X
+526;1979;15;46;United States Grand Prix;07.10.79;X
+527;1978;1;25;Argentine Grand Prix;15.01.78;X
+528;1978;2;36;Brazilian Grand Prix;29.01.78;X
+529;1978;3;30;South African Grand Prix;04.03.78;X
+530;1978;4;43;United States Grand Prix West;02.04.78;X
+531;1978;5;6;Monaco Grand Prix;07.05.78;X
+532;1978;6;40;Belgian Grand Prix;21.05.78;X
+533;1978;7;45;Spanish Grand Prix;04.06.78;X
+534;1978;8;47;Swedish Grand Prix;17.06.78;X
+535;1978;9;34;French Grand Prix;02.07.78;X
+536;1978;10;38;British Grand Prix;16.07.78;X
+537;1978;11;10;German Grand Prix;30.07.78;X
+538;1978;12;23;Austrian Grand Prix;13.08.78;X
+539;1978;13;39;Dutch Grand Prix;27.08.78;X
+540;1978;14;14;Italian Grand Prix;10.09.78;X
+541;1978;15;46;United States Grand Prix;01.10.78;X
+542;1978;16;7;Canadian Grand Prix;08.10.78;X
+543;1977;1;25;Argentine Grand Prix;09.01.77;X
+544;1977;2;18;Brazilian Grand Prix;23.01.77;X
+545;1977;3;30;South African Grand Prix;05.03.77;X
+546;1977;4;43;United States Grand Prix West;03.04.77;X
+547;1977;5;45;Spanish Grand Prix;08.05.77;X
+548;1977;6;6;Monaco Grand Prix;22.05.77;X
+549;1977;7;40;Belgian Grand Prix;05.06.77;X
+550;1977;8;47;Swedish Grand Prix;19.06.77;X
+551;1977;9;41;French Grand Prix;03.07.77;X
+552;1977;10;9;British Grand Prix;16.07.77;X
+553;1977;11;10;German Grand Prix;31.07.77;X
+554;1977;12;23;Austrian Grand Prix;14.08.77;X
+555;1977;13;39;Dutch Grand Prix;28.08.77;X
+556;1977;14;14;Italian Grand Prix;11.09.77;X
+557;1977;15;46;United States Grand Prix;02.10.77;X
+558;1977;16;48;Canadian Grand Prix;09.10.77;X
+559;1977;17;16;Japanese Grand Prix;23.10.77;X
+560;1976;1;18;Brazilian Grand Prix;25.01.76;X
+561;1976;2;30;South African Grand Prix;06.03.76;X
+562;1976;3;43;United States Grand Prix West;28.03.76;X
+563;1976;4;45;Spanish Grand Prix;02.05.76;X
+564;1976;5;40;Belgian Grand Prix;16.05.76;X
+565;1976;6;6;Monaco Grand Prix;30.05.76;X
+566;1976;7;47;Swedish Grand Prix;13.06.76;X
+567;1976;8;34;French Grand Prix;04.07.76;X
+568;1976;9;38;British Grand Prix;18.07.76;X
+569;1976;10;20;German Grand Prix;01.08.76;X
+570;1976;11;23;Austrian Grand Prix;15.08.76;X
+571;1976;12;39;Dutch Grand Prix;29.08.76;X
+572;1976;13;14;Italian Grand Prix;12.09.76;X
+573;1976;14;48;Canadian Grand Prix;03.10.76;X
+574;1976;15;46;United States Grand Prix;10.10.76;X
+575;1976;16;16;Japanese Grand Prix;24.10.76;X
+576;1975;1;25;Argentine Grand Prix;12.01.75;X
+577;1975;2;18;Brazilian Grand Prix;26.01.75;X
+578;1975;3;30;South African Grand Prix;01.03.75;X
+579;1975;4;49;Spanish Grand Prix;27.04.75;X
+580;1975;5;6;Monaco Grand Prix;11.05.75;X
+581;1975;6;40;Belgian Grand Prix;25.05.75;X
+582;1975;7;47;Swedish Grand Prix;08.06.75;X
+583;1975;8;39;Dutch Grand Prix;22.06.75;X
+584;1975;9;34;French Grand Prix;06.07.75;X
+585;1975;10;9;British Grand Prix;19.07.75;X
+586;1975;11;20;German Grand Prix;03.08.75;X
+587;1975;12;23;Austrian Grand Prix;17.08.75;X
+588;1975;13;14;Italian Grand Prix;07.09.75;X
+589;1975;14;46;United States Grand Prix;05.10.75;X
+590;1974;1;25;Argentine Grand Prix;13.01.74;X
+591;1974;2;18;Brazilian Grand Prix;27.01.74;X
+592;1974;3;30;South African Grand Prix;30.03.74;X
+593;1974;4;45;Spanish Grand Prix;28.04.74;X
+594;1974;5;50;Belgian Grand Prix;12.05.74;X
+595;1974;6;6;Monaco Grand Prix;26.05.74;X
+596;1974;7;47;Swedish Grand Prix;09.06.74;X
+597;1974;8;39;Dutch Grand Prix;23.06.74;X
+598;1974;9;41;French Grand Prix;07.07.74;X
+599;1974;10;38;British Grand Prix;20.07.74;X
+600;1974;11;20;German Grand Prix;04.08.74;X
+601;1974;12;23;Austrian Grand Prix;18.08.74;X
+602;1974;13;14;Italian Grand Prix;08.09.74;X
+603;1974;14;48;Canadian Grand Prix;22.09.74;X
+604;1974;15;46;United States Grand Prix;06.10.74;X
+605;1973;1;25;Argentine Grand Prix;28.01.73;X
+606;1973;2;18;Brazilian Grand Prix;11.02.73;X
+607;1973;3;30;South African Grand Prix;03.03.73;X
+608;1973;4;49;Spanish Grand Prix;29.04.73;X
+609;1973;5;40;Belgian Grand Prix;20.05.73;X
+610;1973;6;6;Monaco Grand Prix;03.06.73;X
+611;1973;7;47;Swedish Grand Prix;17.06.73;X
+612;1973;8;34;French Grand Prix;01.07.73;X
+613;1973;9;9;British Grand Prix;14.07.73;X
+614;1973;10;39;Dutch Grand Prix;29.07.73;X
+615;1973;11;20;German Grand Prix;05.08.73;X
+616;1973;12;23;Austrian Grand Prix;19.08.73;X
+617;1973;13;14;Italian Grand Prix;09.09.73;X
+618;1973;14;48;Canadian Grand Prix;23.09.73;X
+619;1973;15;46;United States Grand Prix;07.10.73;X
+620;1972;1;25;Argentine Grand Prix;23.01.72;X
+621;1972;2;30;South African Grand Prix;04.03.72;X
+622;1972;3;45;Spanish Grand Prix;01.05.72;X
+623;1972;4;6;Monaco Grand Prix;14.05.72;X
+624;1972;5;50;Belgian Grand Prix;04.06.72;X
+625;1972;6;51;French Grand Prix;02.07.72;X
+626;1972;7;38;British Grand Prix;15.07.72;X
+627;1972;8;20;German Grand Prix;30.07.72;X
+628;1972;9;23;Austrian Grand Prix;13.08.72;X
+629;1972;10;14;Italian Grand Prix;10.09.72;X
+630;1972;11;48;Canadian Grand Prix;24.09.72;X
+631;1972;12;46;United States Grand Prix;08.10.72;X
+632;1971;1;30;South African Grand Prix;06.03.71;X
+633;1971;2;49;Spanish Grand Prix;18.04.71;X
+634;1971;3;6;Monaco Grand Prix;23.05.71;X
+635;1971;4;39;Dutch Grand Prix;20.06.71;X
+636;1971;5;34;French Grand Prix;04.07.71;X
+637;1971;6;9;British Grand Prix;17.07.71;X
+638;1971;7;20;German Grand Prix;01.08.71;X
+639;1971;8;23;Austrian Grand Prix;15.08.71;X
+640;1971;9;14;Italian Grand Prix;05.09.71;X
+641;1971;10;48;Canadian Grand Prix;19.09.71;X
+642;1971;11;46;United States Grand Prix;03.10.71;X
+643;1970;1;30;South African Grand Prix;07.03.70;X
+644;1970;2;45;Spanish Grand Prix;19.04.70;X
+645;1970;3;6;Monaco Grand Prix;10.05.70;X
+646;1970;4;13;Belgian Grand Prix;07.06.70;X
+647;1970;5;39;Dutch Grand Prix;21.06.70;X
+648;1970;6;51;French Grand Prix;05.07.70;X
+649;1970;7;38;British Grand Prix;18.07.70;X
+650;1970;8;10;German Grand Prix;02.08.70;X
+651;1970;9;23;Austrian Grand Prix;16.08.70;X
+652;1970;10;14;Italian Grand Prix;06.09.70;X
+653;1970;11;52;Canadian Grand Prix;20.09.70;X
+654;1970;12;46;United States Grand Prix;04.10.70;X
+655;1970;13;32;Mexican Grand Prix;25.10.70;X
+656;1969;1;30;South African Grand Prix;01.03.69;X
+657;1969;2;49;Spanish Grand Prix;04.05.69;X
+658;1969;3;6;Monaco Grand Prix;18.05.69;X
+659;1969;4;39;Dutch Grand Prix;21.06.69;X
+660;1969;5;51;French Grand Prix;06.07.69;X
+661;1969;6;9;British Grand Prix;19.07.69;X
+662;1969;7;20;German Grand Prix;03.08.69;X
+663;1969;8;14;Italian Grand Prix;07.09.69;X
+664;1969;9;48;Canadian Grand Prix;20.09.69;X
+665;1969;10;46;United States Grand Prix;05.10.69;X
+666;1969;11;32;Mexican Grand Prix;19.10.69;X
+667;1968;1;30;South African Grand Prix;01.01.68;X
+668;1968;2;45;Spanish Grand Prix;12.05.68;X
+669;1968;3;6;Monaco Grand Prix;26.05.68;X
+670;1968;4;13;Belgian Grand Prix;09.06.68;X
+671;1968;5;39;Dutch Grand Prix;23.06.68;X
+672;1968;6;53;French Grand Prix;07.07.68;X
+673;1968;7;38;British Grand Prix;20.07.68;X
+674;1968;8;20;German Grand Prix;04.08.68;X
+675;1968;9;14;Italian Grand Prix;08.09.68;X
+676;1968;10;52;Canadian Grand Prix;22.09.68;X
+677;1968;11;46;United States Grand Prix;06.10.68;X
+678;1968;12;32;Mexican Grand Prix;03.11.68;X
+679;1967;1;30;South African Grand Prix;02.01.67;X
+680;1967;2;6;Monaco Grand Prix;07.05.67;X
+681;1967;3;39;Dutch Grand Prix;04.06.67;X
+682;1967;4;13;Belgian Grand Prix;18.06.67;X
+683;1967;5;54;French Grand Prix;02.07.67;X
+684;1967;6;9;British Grand Prix;15.07.67;X
+685;1967;7;20;German Grand Prix;06.08.67;X
+686;1967;8;48;Canadian Grand Prix;27.08.67;X
+687;1967;9;14;Italian Grand Prix;10.09.67;X
+688;1967;10;46;United States Grand Prix;01.10.67;X
+689;1967;11;32;Mexican Grand Prix;22.10.67;X
+690;1966;1;6;Monaco Grand Prix;22.05.66;X
+691;1966;2;13;Belgian Grand Prix;12.06.66;X
+692;1966;3;55;French Grand Prix;03.07.66;X
+693;1966;4;38;British Grand Prix;16.07.66;X
+694;1966;5;39;Dutch Grand Prix;24.07.66;X
+695;1966;6;20;German Grand Prix;07.08.66;X
+696;1966;7;14;Italian Grand Prix;04.09.66;X
+697;1966;8;46;United States Grand Prix;02.10.66;X
+698;1966;9;32;Mexican Grand Prix;23.10.66;X
+699;1965;1;56;South African Grand Prix;01.01.65;X
+700;1965;2;6;Monaco Grand Prix;30.05.65;X
+701;1965;3;13;Belgian Grand Prix;13.06.65;X
+702;1965;4;51;French Grand Prix;27.06.65;X
+703;1965;5;9;British Grand Prix;10.07.65;X
+704;1965;6;39;Dutch Grand Prix;18.07.65;X
+705;1965;7;20;German Grand Prix;01.08.65;X
+706;1965;8;14;Italian Grand Prix;12.09.65;X
+707;1965;9;46;United States Grand Prix;03.10.65;X
+708;1965;10;32;Mexican Grand Prix;24.10.65;X
+709;1964;1;6;Monaco Grand Prix;10.05.64;X
+710;1964;2;39;Dutch Grand Prix;24.05.64;X
+711;1964;3;13;Belgian Grand Prix;14.06.64;X
+712;1964;4;53;French Grand Prix;28.06.64;X
+713;1964;5;38;British Grand Prix;11.07.64;X
+714;1964;6;20;German Grand Prix;02.08.64;X
+715;1964;7;57;Austrian Grand Prix;23.08.64;X
+716;1964;8;14;Italian Grand Prix;06.09.64;X
+717;1964;9;46;United States Grand Prix;04.10.64;X
+718;1964;10;32;Mexican Grand Prix;25.10.64;X
+719;1963;1;6;Monaco Grand Prix;26.05.63;X
+720;1963;2;13;Belgian Grand Prix;09.06.63;X
+721;1963;3;39;Dutch Grand Prix;23.06.63;X
+722;1963;4;55;French Grand Prix;30.06.63;X
+723;1963;5;9;British Grand Prix;20.07.63;X
+724;1963;6;20;German Grand Prix;04.08.63;X
+725;1963;7;14;Italian Grand Prix;08.09.63;X
+726;1963;8;46;United States Grand Prix;06.10.63;X
+727;1963;9;32;Mexican Grand Prix;27.10.63;X
+728;1963;10;56;South African Grand Prix;28.12.63;X
+729;1962;1;39;Dutch Grand Prix;20.05.62;X
+730;1962;2;6;Monaco Grand Prix;03.06.62;X
+731;1962;3;13;Belgian Grand Prix;17.06.62;X
+732;1962;4;53;French Grand Prix;08.07.62;X
+733;1962;5;58;British Grand Prix;21.07.62;X
+734;1962;6;20;German Grand Prix;05.08.62;X
+735;1962;7;14;Italian Grand Prix;16.09.62;X
+736;1962;8;46;United States Grand Prix;07.10.62;X
+737;1962;9;56;South African Grand Prix;29.12.62;X
+738;1961;1;6;Monaco Grand Prix;14.05.61;X
+739;1961;2;39;Dutch Grand Prix;22.05.61;X
+740;1961;3;13;Belgian Grand Prix;18.06.61;X
+741;1961;4;55;French Grand Prix;02.07.61;X
+742;1961;5;58;British Grand Prix;15.07.61;X
+743;1961;6;20;German Grand Prix;06.08.61;X
+744;1961;7;14;Italian Grand Prix;10.09.61;X
+745;1961;8;46;United States Grand Prix;08.10.61;X
+746;1960;1;25;Argentine Grand Prix;07.02.60;X
+747;1960;2;6;Monaco Grand Prix;29.05.60;X
+748;1960;3;19;Indianapolis 500;30.05.60;X
+749;1960;4;39;Dutch Grand Prix;06.06.60;X
+750;1960;5;13;Belgian Grand Prix;19.06.60;X
+751;1960;6;55;French Grand Prix;03.07.60;X
+752;1960;7;9;British Grand Prix;16.07.60;X
+753;1960;8;59;Portuguese Grand Prix;14.08.60;X
+754;1960;9;14;Italian Grand Prix;04.09.60;X
+755;1960;10;60;United States Grand Prix;20.11.60;X
+756;1959;1;6;Monaco Grand Prix;10.05.59;X
+757;1959;2;19;Indianapolis 500;30.05.59;X
+758;1959;3;39;Dutch Grand Prix;31.05.59;X
+759;1959;4;55;French Grand Prix;05.07.59;X
+760;1959;5;58;British Grand Prix;18.07.59;X
+761;1959;6;61;German Grand Prix;02.08.59;X
+762;1959;7;62;Portuguese Grand Prix;23.08.59;X
+763;1959;8;14;Italian Grand Prix;13.09.59;X
+764;1959;9;63;United States Grand Prix;12.12.59;X
+765;1958;1;25;Argentine Grand Prix;19.01.58;X
+766;1958;2;6;Monaco Grand Prix;18.05.58;X
+767;1958;3;39;Dutch Grand Prix;26.05.58;X
+768;1958;4;19;Indianapolis 500;30.05.58;X
+769;1958;5;13;Belgian Grand Prix;15.06.58;X
+770;1958;6;55;French Grand Prix;06.07.58;X
+771;1958;7;9;British Grand Prix;19.07.58;X
+772;1958;8;20;German Grand Prix;03.08.58;X
+773;1958;9;59;Portuguese Grand Prix;24.08.58;X
+774;1958;10;14;Italian Grand Prix;07.09.58;X
+775;1958;11;64;Moroccan Grand Prix;19.10.58;X
+776;1957;1;25;Argentine Grand Prix;13.01.57;X
+777;1957;2;6;Monaco Grand Prix;19.05.57;X
+778;1957;3;19;Indianapolis 500;30.05.57;X
+779;1957;4;53;French Grand Prix;07.07.57;X
+780;1957;5;58;British Grand Prix;20.07.57;X
+781;1957;6;20;German Grand Prix;04.08.57;X
+782;1957;7;65;Pescara Grand Prix;18.08.57;X
+783;1957;8;14;Italian Grand Prix;08.09.57;X
+784;1956;1;25;Argentine Grand Prix;22.01.56;X
+785;1956;2;6;Monaco Grand Prix;13.05.56;X
+786;1956;3;19;Indianapolis 500;30.05.56;X
+787;1956;4;13;Belgian Grand Prix;03.06.56;X
+788;1956;5;55;French Grand Prix;01.07.56;X
+789;1956;6;9;British Grand Prix;14.07.56;X
+790;1956;7;20;German Grand Prix;05.08.56;X
+791;1956;8;14;Italian Grand Prix;02.09.56;X
+792;1955;1;25;Argentine Grand Prix;16.01.55;X
+793;1955;2;6;Monaco Grand Prix;22.05.55;X
+794;1955;3;19;Indianapolis 500;30.05.55;X
+795;1955;4;13;Belgian Grand Prix;05.06.55;X
+796;1955;5;39;Dutch Grand Prix;19.06.55;X
+797;1955;6;58;British Grand Prix;16.07.55;X
+798;1955;7;14;Italian Grand Prix;11.09.55;X
+799;1954;1;25;Argentine Grand Prix;17.01.54;X
+800;1954;2;19;Indianapolis 500;31.05.54;X
+801;1954;3;13;Belgian Grand Prix;20.06.54;X
+802;1954;4;55;French Grand Prix;04.07.54;X
+803;1954;5;9;British Grand Prix;17.07.54;X
+804;1954;6;20;German Grand Prix;01.08.54;X
+805;1954;7;66;Swiss Grand Prix;22.08.54;X
+806;1954;8;14;Italian Grand Prix;05.09.54;X
+807;1954;9;67;Spanish Grand Prix;24.10.54;X
+808;1953;1;25;Argentine Grand Prix;18.01.53;X
+809;1953;2;19;Indianapolis 500;30.05.53;X
+810;1953;3;39;Dutch Grand Prix;07.06.53;X
+811;1953;4;13;Belgian Grand Prix;21.06.53;X
+812;1953;5;55;French Grand Prix;05.07.53;X
+813;1953;6;9;British Grand Prix;18.07.53;X
+814;1953;7;20;German Grand Prix;02.08.53;X
+815;1953;8;66;Swiss Grand Prix;23.08.53;X
+816;1953;9;14;Italian Grand Prix;13.09.53;X
+817;1952;1;66;Swiss Grand Prix;18.05.52;X
+818;1952;2;19;Indianapolis 500;30.05.52;X
+819;1952;3;13;Belgian Grand Prix;22.06.52;X
+820;1952;4;53;French Grand Prix;06.07.52;X
+821;1952;5;9;British Grand Prix;19.07.52;X
+822;1952;6;20;German Grand Prix;03.08.52;X
+823;1952;7;39;Dutch Grand Prix;17.08.52;X
+824;1952;8;14;Italian Grand Prix;07.09.52;X
+825;1951;1;66;Swiss Grand Prix;27.05.51;X
+826;1951;2;19;Indianapolis 500;30.05.51;X
+827;1951;3;13;Belgian Grand Prix;17.06.51;X
+828;1951;4;55;French Grand Prix;01.07.51;X
+829;1951;5;9;British Grand Prix;14.07.51;X
+830;1951;6;20;German Grand Prix;29.07.51;X
+831;1951;7;14;Italian Grand Prix;16.09.51;X
+832;1951;8;67;Spanish Grand Prix;28.10.51;X
+833;1950;1;9;British Grand Prix;13.05.50;X
+834;1950;2;6;Monaco Grand Prix;21.05.50;X
+835;1950;3;19;Indianapolis 500;30.05.50;X
+836;1950;4;66;Swiss Grand Prix;04.06.50;X
+837;1950;5;13;Belgian Grand Prix;18.06.50;X
+838;1950;6;55;French Grand Prix;02.07.50;X
+839;1950;7;14;Italian Grand Prix;03.09.50;X
+841;2011;1;1;Australian Grand Prix;27.03.11;06:00:00
+842;2011;2;2;Malaysian Grand Prix;10.04.11;08:00:00
+843;2011;3;17;Chinese Grand Prix;17.04.11;07:00:00
+844;2011;4;5;Turkish Grand Prix;08.05.11;12:00:00
+845;2011;5;4;Spanish Grand Prix;22.05.11;12:00:00
+846;2011;6;6;Monaco Grand Prix;29.05.11;12:00:00
+847;2011;7;7;Canadian Grand Prix;12.06.11;17:00:00
+848;2011;8;12;European Grand Prix;26.06.11;12:00:00
+849;2011;9;9;British Grand Prix;10.07.11;12:00:00
+850;2011;10;20;German Grand Prix;24.07.11;12:00:00
+851;2011;11;11;Hungarian Grand Prix;31.07.11;12:00:00
+852;2011;12;13;Belgian Grand Prix;28.08.11;12:00:00
+853;2011;13;14;Italian Grand Prix;11.09.11;12:00:00
+854;2011;14;15;Singapore Grand Prix;25.09.11;12:00:00
+855;2011;15;22;Japanese Grand Prix;09.10.11;06:00:00
+856;2011;16;35;Korean Grand Prix;16.10.11;06:00:00
+857;2011;17;68;Indian Grand Prix;30.10.11;09:30:00
+858;2011;18;24;Abu Dhabi Grand Prix;13.11.11;13:00:00
+859;2011;19;18;Brazilian Grand Prix;27.11.11;16:00:00
+860;2012;1;1;Australian Grand Prix;18.03.12;06:00:00
+861;2012;2;2;Malaysian Grand Prix;25.03.12;08:00:00
+862;2012;3;17;Chinese Grand Prix;15.04.12;07:00:00
+863;2012;4;3;Bahrain Grand Prix;22.04.12;12:00:00
+864;2012;5;4;Spanish Grand Prix;13.05.12;12:00:00
+865;2012;6;6;Monaco Grand Prix;27.05.12;12:00:00
+866;2012;7;7;Canadian Grand Prix;10.06.12;18:00:00
+867;2012;8;12;European Grand Prix;24.06.12;12:00:00
+868;2012;9;9;British Grand Prix;08.07.12;12:00:00
+869;2012;10;10;German Grand Prix;22.07.12;12:00:00
+870;2012;11;11;Hungarian Grand Prix;29.07.12;12:00:00
+871;2012;12;13;Belgian Grand Prix;02.09.12;12:00:00
+872;2012;13;14;Italian Grand Prix;09.09.12;12:00:00
+873;2012;14;15;Singapore Grand Prix;23.09.12;12:00:00
+874;2012;15;22;Japanese Grand Prix;07.10.12;06:00:00
+875;2012;16;35;Korean Grand Prix;14.10.12;06:00:00
+876;2012;17;68;Indian Grand Prix;28.10.12;09:30:00
+877;2012;18;24;Abu Dhabi Grand Prix;04.11.12;13:00:00
+878;2012;19;69;United States Grand Prix;18.11.12;19:00:00
+879;2012;20;18;Brazilian Grand Prix;25.11.12;16:00:00
+880;2013;1;1;Australian Grand Prix;17.03.13;06:00:00
+881;2013;2;2;Malaysian Grand Prix;24.03.13;08:00:00
+882;2013;3;17;Chinese Grand Prix;14.04.13;07:00:00
+883;2013;4;3;Bahrain Grand Prix;21.04.13;12:00:00
+884;2013;5;4;Spanish Grand Prix;12.05.13;12:00:00
+885;2013;6;6;Monaco Grand Prix;26.05.13;12:00:00
+886;2013;7;7;Canadian Grand Prix;09.06.13;18:00:00
+887;2013;8;9;British Grand Prix;30.06.13;12:00:00
+888;2013;9;20;German Grand Prix;07.07.13;12:00:00
+890;2013;10;11;Hungarian Grand Prix;28.07.13;12:00:00
+891;2013;11;13;Belgian Grand Prix;25.08.13;12:00:00
+892;2013;12;14;Italian Grand Prix;08.09.13;12:00:00
+893;2013;13;15;Singapore Grand Prix;22.09.13;12:00:00
+894;2013;14;35;Korean Grand Prix;06.10.13;06:00:00
+895;2013;15;22;Japanese Grand Prix;13.10.13;06:00:00
+896;2013;16;68;Indian Grand Prix;27.10.13;09:30:00
+897;2013;17;24;Abu Dhabi Grand Prix;03.11.13;13:00:00
+898;2013;18;69;United States Grand Prix;17.11.13;19:00:00
+899;2013;19;18;Brazilian Grand Prix;24.11.13;16:00:00
+900;2014;1;1;Australian Grand Prix;16.03.14;06:00:00
+901;2014;2;2;Malaysian Grand Prix;30.03.14;08:00:00
+902;2014;3;3;Bahrain Grand Prix;06.04.14;15:00:00
+903;2014;4;17;Chinese Grand Prix;20.04.14;07:00:00
+904;2014;5;4;Spanish Grand Prix;11.05.14;12:00:00
+905;2014;6;6;Monaco Grand Prix;25.05.14;12:00:00
+906;2014;7;7;Canadian Grand Prix;08.06.14;18:00:00
+907;2014;8;70;Austrian Grand Prix;22.06.14;12:00:00
+908;2014;9;9;British Grand Prix;06.07.14;12:00:00
+909;2014;10;10;German Grand Prix;20.07.14;12:00:00
+910;2014;11;11;Hungarian Grand Prix;27.07.14;12:00:00
+911;2014;12;13;Belgian Grand Prix;24.08.14;12:00:00
+912;2014;13;14;Italian Grand Prix;07.09.14;12:00:00
+913;2014;14;15;Singapore Grand Prix;21.09.14;12:00:00
+914;2014;15;22;Japanese Grand Prix;05.10.14;06:00:00
+915;2014;16;71;Russian Grand Prix;12.10.14;11:00:00
+916;2014;17;69;United States Grand Prix;02.11.14;20:00:00
+917;2014;18;18;Brazilian Grand Prix;09.11.14;16:00:00
+918;2014;19;24;Abu Dhabi Grand Prix;23.11.14;13:00:00
+931;2015;6;6;Monaco Grand Prix;24.05.15;12:00:00
+932;2015;7;7;Canadian Grand Prix;07.06.15;18:00:00
+929;2015;4;3;Bahrain Grand Prix;19.04.15;15:00:00
+930;2015;5;4;Spanish Grand Prix;10.05.15;12:00:00
+928;2015;3;17;Chinese Grand Prix;12.04.15;06:00:00
+926;2015;1;1;Australian Grand Prix;15.03.15;05:00:00
+927;2015;2;2;Malaysian Grand Prix;29.03.15;07:00:00
+933;2015;8;70;Austrian Grand Prix;21.06.15;12:00:00
+934;2015;9;9;British Grand Prix;05.07.15;12:00:00
+936;2015;10;11;Hungarian Grand Prix;26.07.15;12:00:00
+937;2015;11;13;Belgian Grand Prix;23.08.15;12:00:00
+938;2015;12;14;Italian Grand Prix;06.09.15;12:00:00
+939;2015;13;15;Singapore Grand Prix;20.09.15;12:00:00
+940;2015;14;22;Japanese Grand Prix;27.09.15;05:00:00
+941;2015;15;71;Russian Grand Prix;11.10.15;11:00:00
+942;2015;16;69;United States Grand Prix;25.10.15;19:00:00
+943;2015;17;32;Mexican Grand Prix;01.11.15;19:00:00
+944;2015;18;18;Brazilian Grand Prix;15.11.15;16:00:00
+945;2015;19;24;Abu Dhabi Grand Prix;29.11.15;13:00:00
+948;2016;1;1;Australian Grand Prix;20.03.16;05:00:00
+949;2016;2;3;Bahrain Grand Prix;03.04.16;15:00:00
+950;2016;3;17;Chinese Grand Prix;17.04.16;06:00:00
+951;2016;4;71;Russian Grand Prix;01.05.16;12:00:00
+952;2016;5;4;Spanish Grand Prix;15.05.16;12:00:00
+953;2016;6;6;Monaco Grand Prix;29.05.16;12:00:00
+954;2016;7;7;Canadian Grand Prix;12.06.16;18:00:00
+955;2016;8;73;European Grand Prix;19.06.16;13:00:00
+956;2016;9;70;Austrian Grand Prix;03.07.16;12:00:00
+957;2016;10;9;British Grand Prix;10.07.16;12:00:00
+958;2016;11;11;Hungarian Grand Prix;24.07.16;12:00:00
+959;2016;12;10;German Grand Prix;31.07.16;12:00:00
+960;2016;13;13;Belgian Grand Prix;28.08.16;12:00:00
+961;2016;14;14;Italian Grand Prix;04.09.16;12:00:00
+962;2016;15;15;Singapore Grand Prix;18.09.16;12:00:00
+963;2016;16;2;Malaysian Grand Prix;02.10.16;07:00:00
+964;2016;17;22;Japanese Grand Prix;09.10.16;05:00:00
+965;2016;18;69;United States Grand Prix;23.10.16;19:00:00
+966;2016;19;32;Mexican Grand Prix;30.10.16;19:00:00
+967;2016;20;18;Brazilian Grand Prix;13.11.16;16:00:00
+968;2016;21;24;Abu Dhabi Grand Prix;27.11.16;13:00:00
+969;2017;1;1;Australian Grand Prix;26.03.17;05:00:00
+970;2017;2;17;Chinese Grand Prix;09.04.17;06:00:00
+971;2017;3;3;Bahrain Grand Prix;16.04.17;15:00:00
+972;2017;4;71;Russian Grand Prix;30.04.17;12:00:00
+973;2017;5;4;Spanish Grand Prix;14.05.17;12:00:00
+974;2017;6;6;Monaco Grand Prix;28.05.17;12:00:00
+975;2017;7;7;Canadian Grand Prix;11.06.17;18:00:00
+976;2017;8;73;Azerbaijan Grand Prix;25.06.17;13:00:00
+977;2017;9;70;Austrian Grand Prix;09.07.17;12:00:00
+978;2017;10;9;British Grand Prix;16.07.17;12:00:00
+979;2017;11;11;Hungarian Grand Prix;30.07.17;12:00:00
+980;2017;12;13;Belgian Grand Prix;27.08.17;12:00:00
+981;2017;13;14;Italian Grand Prix;03.09.17;12:00:00
+982;2017;14;15;Singapore Grand Prix;17.09.17;12:00:00
+983;2017;15;2;Malaysian Grand Prix;01.10.17;07:00:00
+984;2017;16;22;Japanese Grand Prix;08.10.17;05:00:00
+985;2017;17;69;United States Grand Prix;22.10.17;19:00:00
+986;2017;18;32;Mexican Grand Prix;29.10.17;19:00:00
+987;2017;19;18;Brazilian Grand Prix;12.11.17;16:00:00
+988;2017;20;24;Abu Dhabi Grand Prix;26.11.17;13:00:00
+989;2018;1;1;Australian Grand Prix;25.03.18;05:10:00
+990;2018;2;3;Bahrain Grand Prix;08.04.18;15:10:00
+991;2018;3;17;Chinese Grand Prix;15.04.18;06:10:00
+992;2018;4;73;Azerbaijan Grand Prix;29.04.18;12:10:00
+993;2018;5;4;Spanish Grand Prix;13.05.18;13:10:00
+994;2018;6;6;Monaco Grand Prix;27.05.18;13:10:00
+995;2018;7;7;Canadian Grand Prix;10.06.18;18:10:00
+996;2018;8;34;French Grand Prix;24.06.18;14:10:00
+997;2018;9;70;Austrian Grand Prix;01.07.18;13:10:00
+998;2018;10;9;British Grand Prix;08.07.18;13:10:00
+999;2018;11;10;German Grand Prix;22.07.18;13:10:00
+1000;2018;12;11;Hungarian Grand Prix;29.07.18;13:10:00
+1001;2018;13;13;Belgian Grand Prix;26.08.18;13:10:00
+1002;2018;14;14;Italian Grand Prix;02.09.18;13:10:00
+1003;2018;15;15;Singapore Grand Prix;16.09.18;12:10:00
+1004;2018;16;71;Russian Grand Prix;30.09.18;11:10:00
+1005;2018;17;22;Japanese Grand Prix;07.10.18;05:10:00
+1006;2018;18;69;United States Grand Prix;21.10.18;18:10:00
+1007;2018;19;32;Mexican Grand Prix;28.10.18;19:10:00
+1008;2018;20;18;Brazilian Grand Prix;11.11.18;17:10:00
+1009;2018;21;24;Abu Dhabi Grand Prix;25.11.18;13:10:00
+1010;2019;1;1;Australian Grand Prix;17.03.19;05:10:00
+1011;2019;2;3;Bahrain Grand Prix;31.03.19;15:10:00
+1012;2019;3;17;Chinese Grand Prix;14.04.19;06:10:00
+1013;2019;4;73;Azerbaijan Grand Prix;28.04.19;12:10:00
+1014;2019;5;4;Spanish Grand Prix;12.05.19;13:10:00
+1015;2019;6;6;Monaco Grand Prix;26.05.19;13:10:00
+1016;2019;7;7;Canadian Grand Prix;09.06.19;18:10:00
+1017;2019;8;34;French Grand Prix;23.06.19;13:10:00
+1018;2019;9;70;Austrian Grand Prix;30.06.19;13:10:00
+1019;2019;10;9;British Grand Prix;14.07.19;13:10:00
+1020;2019;11;10;German Grand Prix;28.07.19;13:10:00
+1021;2019;12;11;Hungarian Grand Prix;04.08.19;13:10:00
+1022;2019;13;13;Belgian Grand Prix;01.09.19;13:10:00
+1023;2019;14;14;Italian Grand Prix;08.09.19;13:10:00
+1024;2019;15;15;Singapore Grand Prix;22.09.19;12:10:00
+1025;2019;16;71;Russian Grand Prix;29.09.19;11:10:00
+1026;2019;17;22;Japanese Grand Prix;13.10.19;05:10:00
+1027;2019;18;32;Mexican Grand Prix;27.10.19;19:10:00
+1028;2019;19;69;United States Grand Prix;03.11.19;19:10:00
+1029;2019;20;18;Brazilian Grand Prix;17.11.19;17:10:00
+1030;2019;21;24;Abu Dhabi Grand Prix;01.12.19;13:10:00
+1031;2020;1;70;Austrian Grand Prix;05.07.20;13:10:00
+1032;2020;2;70;Styrian Grand Prix;12.07.20;13:10:00
+1033;2020;3;11;Hungarian Grand Prix;19.07.20;13:10:00
+1034;2020;4;9;British Grand Prix;02.08.20;13:10:00
+1035;2020;5;9;70th Anniversary Grand Prix;09.08.20;13:10:00
+1036;2020;6;4;Spanish Grand Prix;16.08.20;13:10:00
+1037;2020;7;13;Belgian Grand Prix;30.08.20;13:10:00
+1038;2020;8;14;Italian Grand Prix;06.09.20;13:10:00
+1039;2020;9;76;Tuscan Grand Prix;13.09.20;13:10:00
+1040;2020;10;71;Russian Grand Prix;27.09.20;11:10:00
+1041;2020;11;20;Eifel Grand Prix;11.10.20;13:10:00
+1042;2020;12;75;Portuguese Grand Prix;25.10.20;12:10:00
+1043;2020;13;21;Emilia Romagna Grand Prix;01.11.20;12:10:00
+1044;2020;14;5;Turkish Grand Prix;15.11.20;10:10:00
+1045;2020;15;3;Bahrain Grand Prix;29.11.20;14:10:00
+1046;2020;16;3;Sakhir Grand Prix;06.12.20;17:10:00
+1047;2020;17;24;Abu Dhabi Grand Prix;13.12.20;13:10:00
